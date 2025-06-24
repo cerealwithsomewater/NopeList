@@ -22,7 +22,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/NopeList.git
+git clone https://github.com/cereakwithsomewater/NopeList.git
 # Navigate into the folder
 cd NopeList
 # Open in your default browser
