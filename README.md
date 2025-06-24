@@ -1,4 +1,4 @@
-# NopeList 🌸
+# NopeList 🛑
 
 **NopeList** is a playful to-do list that lets you mark tasks as “Nope” (i.e., admit defeat) instead of completing them. It runs entirely in the browser and stores all data in `localStorage`, so you can pick up where you left off anytime.
 
